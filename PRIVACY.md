@@ -55,4 +55,5 @@ the use of our server apps.
 ## Contact Us
 
 If you have any questions or suggestions regarding our privacy policy, please
-contact us. *mail : kelvin4atlassian@gmail.com
+contact us. 
+*mail : kelvin4atlassian@gmail.com
